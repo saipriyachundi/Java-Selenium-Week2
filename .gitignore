@@ -1,0 +1,43 @@
+# ---- Java compiled files ----
+*.class
+*.jar
+*.war
+*.ear
+
+# ---- Logs ----
+*.log
+
+# ---- IDE and Editor settings ----
+.vscode/
+.idea/
+*.iml
+*.classpath
+*.project
+.settings/
+
+# ---- OS generated files ----
+.DS_Store
+Thumbs.db
+
+# ---- Selenium Drivers ----
+chromedriver.exe
+geckodriver.exe
+msedgedriver.exe
+
+# ---- Temporary or backup ----
+*.tmp
+*.bak
+*.swp
+
+# ---- Build output ----
+/bin/
+/out/
+/target/
+
+# ---- Screenshots from Selenium ----
+*.png
+
+# ---- Scripts and local run files ----
+*.bat
+*.cmd
+*.sh
